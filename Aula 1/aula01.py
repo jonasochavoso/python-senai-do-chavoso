@@ -1,0 +1,6 @@
+print('ola, mundo')
+print('vaaaai corinthians') 
+print ('pau no cu da midia')
+print('e vai corinthians')
+print('joninhas o chavoso')
+print('maria linda')
